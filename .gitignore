@@ -1,0 +1,23 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 凭证文件
+bot_id.txt
+secret.txt
+*.key
+*.pem
+*.p12
+
+# 日志
+*.log
+logs/
+
